@@ -1,7 +1,15 @@
 { "ID":1,
- "summary":"certificateofsafety",
- "severyri":"bloker",
- "steps":1"opensite",
- "actualresult":"don'thavecertificateofsafety",
- "expectedresult":"certificateofsafetythereis"}
+ "summary",
+ "severyti",
+ "prioryti",
+ "reporter",
+ "steps",
+ "actualresult",
+ "expectedresult",
+"screenshot",
+ "platform",
+ "OC",
+ "brouser",
+ "status"
+}
 
