@@ -1,0 +1,11 @@
+Id
+summary
+severyti
+prioruti
+reporter
+steps
+actual result
+expected result 
+screenshot
+platform, OC, brouser
+status
