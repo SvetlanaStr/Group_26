@@ -1,0 +1,18 @@
+проверка        Firefox      Chrome
+                    результат
+регистрация
+
+email           passed       passed
+
+соцсети         passed       failed
+
+валидация 
+полей           passed       passed 
+  
+автооризация
+
+польз активир   passed       passed
+
+пользоват не 
+активирован     failed       passed
+
